@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\ArtemDNK\Desktop\g-code\Unit1.dfm=C:\Users\ArtemDNK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,c:\users\artemdnk\desktop\g-code\modelsupport_project1\project1\namespace1\default.txapackage=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\ArtemDNK\Desktop\g-code\Unit1.pas=C:\Users\ArtemDNK\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,=C:\Users\User\Documents\Embarcadero\Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\Project1\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,=C:\Users\User\Documents\Embarcadero\Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\Project1\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\Project1\Namespace1\default.txaPackage</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,=C:\Users\ArtemDNK\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,C:\Users\ArtemDNK\Desktop\g-code\Project1.dproj=C:\Users\ArtemDNK\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\Unit1\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_Project1\Project1\Namespace1\default.txvpck</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,c:\users\artemdnk\desktop\g-code\modelsupport_project1\project1\namespace1\default.txvpck=</Transaction>
+    <Transaction>2018.03.05 14:47:30.374,C:\Users\ArtemDNK\Desktop\g-code\MainUnit.dfm=C:\Users\ArtemDNK\Desktop\g-code\Unit1.dfm</Transaction>
+    <Transaction>2018.03.05 14:47:30.374,C:\Users\ArtemDNK\Desktop\g-code\MainUnit.pas=C:\Users\ArtemDNK\Desktop\g-code\Unit1.pas</Transaction>
+    <Transaction>2018.03.05 14:49:29.638,C:\Users\ArtemDNK\Desktop\G-code2\AutoG_code.dproj=C:\Users\ArtemDNK\Desktop\g-code\Project1.dproj</Transaction>
+    <Transaction>2018.03.05 14:49:29.975,c:\users\artemdnk\desktop\g-code\modelsupport_project1\default.txapackage=</Transaction>
+    <Transaction>2018.03.05 14:49:30.110,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\default.txaPackage</Transaction>
+    <Transaction>2018.03.05 14:49:31.042,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\default.txvpck</Transaction>
+    <Transaction>2018.03.05 14:49:31.186,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\AutoG_code\default.txvpck</Transaction>
+    <Transaction>2018.03.05 14:49:31.359,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\MainUnit\default.txvpck</Transaction>
+    <Transaction>2018.03.05 14:49:34.053,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\AutoG_code\default.txaPackage</Transaction>
+    <Transaction>2018.03.05 14:49:34.148,=C:\Users\ArtemDNK\Desktop\g-code\ModelSupport_AutoG_code\MainUnit\default.txaPackage</Transaction>
+    <Transaction>2018.03.05 14:49:53.931,C:\Users\ArtemDNK\Desktop\G-code2\MainUnit.pas=C:\Users\ArtemDNK\Desktop\g-code\MainUnit.pas</Transaction>
+    <Transaction>2018.03.05 14:49:53.931,C:\Users\ArtemDNK\Desktop\G-code2\MainUnit.dfm=C:\Users\ArtemDNK\Desktop\g-code\MainUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
